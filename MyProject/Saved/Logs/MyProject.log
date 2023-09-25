@@ -1062,3 +1062,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.25-08.38.26:533][336]LogSlate: Window 'BP_Exercise' being destroyed
 [2023.09.25-08.38.26:534][336]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2023.09.25-08.38.26:534][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.25-08.39.35:883][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultMap" FILE="D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Content/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.25-08.39.35:900][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.09.25-08.39.35:907][473]LogSavePackage: Moving 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Saved/DefaultMapF7C711E44E2C98BCD92A6B8CBA129D52.tmp' to 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Content/DefaultMap.umap'
+[2023.09.25-08.39.35:970][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultMap_BuiltData" FILE="D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Content/DefaultMap_BuiltData.uasset" SILENT=true
+[2023.09.25-08.39.35:980][473]LogSavePackage: Moving 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Saved/DefaultMap_BuiltData3C653A934F0E64B12F68B59B820AD61C.tmp' to 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Content/DefaultMap_BuiltData.uasset'
+[2023.09.25-08.39.35:990][473]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.25-08.39.35:990][473]LogContentValidation: Display: Validating World /Game/DefaultMap.DefaultMap
+[2023.09.25-08.39.35:990][473]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DefaultMap_BuiltData.DefaultMap_BuiltData
