@@ -994,3 +994,71 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.25-08.30.41:342][759]LogSlate: Window 'BP_Exercise' being destroyed
 [2023.09.25-08.30.41:344][759]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2023.09.25-08.30.41:344][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.25-08.32.18:919][246]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Exercise.BP_Exercise
+[2023.09.25-08.32.23:543][502]BlueprintLog: New page: Compile BP_Exercise
+[2023.09.25-08.32.23:580][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.09.25-08.33.01:767][127]LogSlate: Window 'BP_Exercise' being destroyed
+[2023.09.25-08.33.01:772][127]LogSlate: Window 'BP_Exercise' being destroyed
+[2023.09.25-08.33.01:773][127]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.09.25-08.33.01:773][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.25-08.34.41:491][213]LogSlate: Took 0.004915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.09.25-08.34.55:017][ 24]LogSlate: Window 'Source Control Login' being destroyed
+[2023.09.25-08.35.09:084][538]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Exercise.BP_Exercise
+[2023.09.25-08.35.13:513][782]BlueprintLog: New page: Compile BP_Exercise
+[2023.09.25-08.35.13:548][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.09.25-08.35.56:499][580]LogSlate: Window 'BP_Exercise' being destroyed
+[2023.09.25-08.35.56:505][580]LogSlate: Window 'BP_Exercise' being destroyed
+[2023.09.25-08.35.56:507][580]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.09.25-08.35.56:507][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:779][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:780][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:780][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:780][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:780][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:780][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:780][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:780][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/Magistracy/3 semestr/UE/UnrealEngine'
+[2023.09.25-08.36.02:903][948]EditorErrors: Warning: No assets to check in!
+[2023.09.25-08.36.09:454][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultMap" FILE="D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Content/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.25-08.36.09:471][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.09.25-08.36.09:479][329]LogSavePackage: Moving 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Saved/DefaultMap25C021D04669773B1D9A99BE2209BFAA.tmp' to 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Content/DefaultMap.umap'
+[2023.09.25-08.36.09:481][329]LogFileHelpers: Saving map 'DefaultMap' took 0.026
+[2023.09.25-08.36.09:481][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Exercise" FILE="D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Content/Blueprints/BP_Exercise.uasset" SILENT=true
+[2023.09.25-08.36.09:487][329]LogSavePackage: Moving 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Saved/BP_Exercise4C0DA671446FE1B5752F618BA1803A37.tmp' to 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Content/Blueprints/BP_Exercise.uasset'
+[2023.09.25-08.36.09:925][329]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.25-08.36.09:925][329]LogContentValidation: Display: Validating World /Game/DefaultMap.DefaultMap
+[2023.09.25-08.36.09:926][329]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Exercise.BP_Exercise
+[2023.09.25-08.37.07:933][980]SourceControl: Source control is disabled
+[2023.09.25-08.37.07:934][980]LogSlate: Window 'Source Control Login' being destroyed
+[2023.09.25-08.37.29:371][213]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.09.25-08.37.30:434][276]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.09.25-08.37.32:842][381]LogSlate: Window 'Source Control Login' being destroyed
+[2023.09.25-08.37.42:420][948]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.09.25-08.37.44:471][ 71]SourceControl: Source control is disabled
+[2023.09.25-08.37.44:471][ 71]LogSlate: Window 'Source Control Login' being destroyed
+[2023.09.25-08.37.58:476][507]LogSlate: Window 'Source Control Login' being destroyed
+[2023.09.25-08.38.15:869][721]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Exercise.BP_Exercise
+[2023.09.25-08.38.23:397][150]BlueprintLog: New page: Compile BP_Exercise
+[2023.09.25-08.38.23:427][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.09.25-08.38.26:529][336]LogSlate: Window 'BP_Exercise' being destroyed
+[2023.09.25-08.38.26:533][336]LogSlate: Window 'BP_Exercise' being destroyed
+[2023.09.25-08.38.26:534][336]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.09.25-08.38.26:534][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
