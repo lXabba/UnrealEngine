@@ -1070,3 +1070,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.25-08.39.35:990][473]AssetCheck: New page: Asset Save: multiple assets
 [2023.09.25-08.39.35:990][473]LogContentValidation: Display: Validating World /Game/DefaultMap.DefaultMap
 [2023.09.25-08.39.35:990][473]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DefaultMap_BuiltData.DefaultMap_BuiltData
+[2023.09.25-08.49.36:007][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.09.25-08.49.36:009][463]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DefaultMap' took 0.019
+[2023.09.25-08.49.36:010][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Exercise] ([2] browsable assets)...
+[2023.09.25-08.49.36:010][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Exercise]
+[2023.09.25-08.49.36:010][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Exercise" FILE="D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Saved/Autosaves/Game/Blueprints/BP_Exercise_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.09.25-08.49.36:013][463]LogSavePackage: Moving 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Saved/BP_Exercise_Auto15E231613403464B4337D3AACD7990268.tmp' to 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Saved/Autosaves/Game/Blueprints/BP_Exercise_Auto1.uasset'
+[2023.09.25-08.49.36:013][463]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.09.25-09.03.02:869][873]LogAudioMixer: Resetting audio stream to device id 
+[2023.09.25-09.03.02:874][873]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.25-09.03.02:875][873]LogAudioMixer: Display: 1: FrontRight
+[2023.09.25-09.12.40:379][877]LogAudioMixer: Resetting audio stream to device id 
+[2023.09.25-09.12.40:397][877]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.25-09.12.40:397][877]LogAudioMixer: Display: 1: FrontRight
+[2023.09.25-09.12.40:645][879]LogHttp: Warning: 0000010AAB2BAB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B13EEDB6B-4237-7790-150A-C481832D076F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=36ea92ee45e15b968ddfcd87f175aae3%7Cc35ab1d1a02e4346a7742db3783b4aad%7Cae386db2-8860-4aba-bf3c-8254f4a8547e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.09.25-09.12.40:646][879]LogHttp: Warning: 0000010AAB2BAB00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.09.25-09.12.40:647][879]LogHttp: Warning: 0000010AAB2BAB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x10ab2dbbeb0 [can pipeline])
+[2023.09.25-09.12.40:647][879]LogHttp: Warning: 0000010AAB2BAB00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2023.09.25-09.12.40:648][879]LogHttp: Warning: 0000010AAB2BAB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.205.164.1) port 443 (#0))
+[2023.09.25-09.12.40:648][879]LogHttp: Warning: 0000010AAB2BAB00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.09.25-09.12.40:648][879]LogHttp: Warning: 0000010AAB2BAB00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.09.25-09.12.40:648][879]LogHttp: Warning: 0000010AAB2BAB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.09.25-09.12.40:649][879]LogHttp: Warning: 0000010AAB2BAB00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.09.25-09.12.40:649][879]LogHttp: Warning: 0000010AAB2BAB00: libcurl info message cache 7 (Closing connection 0)
+[2023.09.25-09.12.40:969][880]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B13EEDB6B-4237-7790-150A-C481832D076F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=36ea92ee45e15b968ddfcd87f175aae3%7Cc35ab1d1a02e4346a7742db3783b4aad%7Cae386db2-8860-4aba-bf3c-8254f4a8547e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.25-09.23.37:783][842]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.09.25-09.23.37:783][842]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.09.25-09.23.39:122][904]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Exercise.BP_Exercise
+[2023.09.25-09.23.40:889][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Exercise" FILE="D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Content/Blueprints/BP_Exercise.uasset" SILENT=true
+[2023.09.25-09.23.40:892][978]LogSavePackage: Moving 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Saved/BP_ExerciseFB2F2A3B44E870E54C3902A22009E38A.tmp' to 'D:/Magistracy/3 semestr/UE/UnrealEngine/MyProject/Content/Blueprints/BP_Exercise.uasset'
+[2023.09.25-09.23.40:919][978]AssetCheck: New page: Asset Save: BP_Exercise
+[2023.09.25-09.23.40:919][978]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Exercise.BP_Exercise
+[2023.09.25-09.23.43:413][127]LogSlate: Window 'BP_Exercise' being destroyed
+[2023.09.25-09.23.43:419][127]LogSlate: Window 'BP_Exercise' being destroyed
+[2023.09.25-09.23.43:420][127]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.09.25-09.23.43:420][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
